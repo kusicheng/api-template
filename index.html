@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Template</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>API template</h1>
+        
+        <input type="text" id="apiKey" placeholder="API key, if any" class="input-field">
+        
+        <input type="text" id="apiLink" placeholder="API link, if any, can also be configured in code" class="input-field">
+        
+        <div class="file-section">
+            <input type="file" id="fileInput" class="file-input">
+            <label for="fileInput" class="file-label">Select files</label>
+            <div id="fileInfo" class="file-info"></div>
+        </div>
+        
+        <button id="sendRequest" class="send-button">Send request</button>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
