@@ -3,14 +3,14 @@ SakuraFRP website/api for easy hosting.
 Can be used as both an API or a website, with some adaptations.
 
 Pros:
-Easy to use, setup, and dismantle
-Cheap
-Highly versatile
+1. Easy to use, setup, and dismantle
+2. Cheap
+3. Highly versatile
 
 Cons:
-DDOS protection doesn't exist yet
-Limited bandwidth (terabytes of data per month is not cheap)
-Non-permanent and self-hosted. Google cloud fork development is in progress.
+1. DDOS protection doesn't exist yet (will be developed after Google cloud fork)
+2. Limited bandwidth (terabytes of data per month is not cheap)
+3. Non-permanent and self-hosted. Google cloud fork development is in progress.
 
 # Prereqs: 
 1. Available and stable router (no need for any configuration on router since SakuraFRP uses custom tunnel). 
