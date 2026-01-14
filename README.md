@@ -2,10 +2,10 @@
 SakuraFRP website/api for lazy copying and easy hosting.
 
 # Prereqs: 
-available and stable router (no need for any configuration on router since SakuraFRP uses custom tunnel)
-may not necessarily work on cloud platforms - they have their own custom stuff I'll add later
+1. Available and stable router (no need for any configuration on router since SakuraFRP uses custom tunnel). 
+2. May not necessarily work on cloud platforms - they have their own custom stuff I'll add later
 
-Steps:
+# Steps:
 1. Clone this repo
 2. Run 'python3 -m http.server 1001 -d [path to html]'
 3. Run 'python3 -m [path to receive.py]'
