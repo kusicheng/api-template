@@ -1,6 +1,7 @@
 # api-template
-SakuraFRP website/api for easy hosting.
-Can be used as both an API or a website, with some adaptations.
+SakuraFRP website/api for easy hosting.<br>
+Can be used as both an API or a website, with some adaptations.<br>
+Motivation was setting up API for transferring files between computers, hackathon testing usage, and potential for cloud-hosted long-term functionality.
 
 Pros:
 1. Easy to use, setup, and dismantle
