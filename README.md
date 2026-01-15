@@ -1,4 +1,6 @@
 # api-template
+THIS PROJECT IS INTENDED AS A SUB-PROJECT OF THE MTL SCRIPT <br><br>
+
 SakuraFRP/Google Cloud website/api for easy hosting.<br>
 Can be used as both an API or a website, with some adaptations.<br>
 Motivation was setting up API for transferring files between computers, hackathon testing usage, and potential for cloud-hosted long-term functionality.
